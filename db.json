@@ -1,0 +1,96 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "",
+      "lastName": "",
+      "emailId": "",
+      "mobileNo": ""
+    },
+    {
+      "id": 3,
+      "firstName": "",
+      "lastName": "",
+      "emailId": "",
+      "mobileNo": ""
+    },
+    {
+      "id": 4,
+      "firstName": "",
+      "lastName": "",
+      "emailId": "",
+      "mobileNo": ""
+    },
+    {
+      "id": 5,
+      "firstName": "",
+      "lastName": "",
+      "emailId": "",
+      "mobileNo": ""
+    },
+    {
+      "id": 6,
+      "firstName": "prabha",
+      "lastName": "prabha",
+      "emailId": "prabha2798@gmail.com",
+      "mobileNo": "jan@gmail.com"
+    },
+    {
+      "id": 7,
+      "firstName": "hjsksn",
+      "lastName": "prabha",
+      "emailId": "jan@gmail.com",
+      "mobileNo": "1478520369"
+    },
+    {
+      "id": 8,
+      "firstName": "hjsksn",
+      "lastName": "prabha",
+      "emailId": "jan@gmail.com",
+      "mobileNo": "7417417410"
+    },
+    {
+      "id": 9,
+      "firstName": "prabha",
+      "lastName": "prabha",
+      "emailId": "prabha2798@gmail.com",
+      "mobileNo": "jan@gmail.com"
+    },
+    {
+      "id": 10,
+      "firstName": "raji",
+      "lastName": "M",
+      "emailId": "rajim@gmail.com",
+      "mobileNo": "7410258963"
+    },
+    {
+      "id": 11,
+      "firstName": "sample1",
+      "lastName": "m",
+      "emailId": "sample@gmail.com",
+      "mobileNo": "7539518024"
+    },
+    {
+      "id": 12,
+      "firstName": "sample2",
+      "lastName": "s",
+      "emailId": "prabha2798@gmail.com",
+      "mobileNo": "7410236589"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
